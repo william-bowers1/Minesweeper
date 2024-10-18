@@ -1,0 +1,180 @@
+﻿  main.cpp
+C:\Users\willi\source\repos\Project3_COP3503\main.cpp(325,81): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\willi\source\repos\Project3_COP3503\main.cpp(325,71): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\willi\source\repos\Project3_COP3503\main.cpp(341,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\willi\source\repos\Project3_COP3503\main.cpp(345,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\willi\source\repos\Project3_COP3503\main.cpp(349,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\willi\source\repos\Project3_COP3503\main.cpp(353,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\willi\source\repos\Project3_COP3503\main.cpp(442,58): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\willi\source\repos\Project3_COP3503\main.cpp(451,58): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\willi\source\repos\Project3_COP3503\main.cpp(494,121): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\willi\source\repos\Project3_COP3503\main.cpp(494,83): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\willi\source\repos\Project3_COP3503\main.cpp(514,121): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\willi\source\repos\Project3_COP3503\main.cpp(514,83): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\willi\source\repos\Project3_COP3503\main.cpp(527,114): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\willi\source\repos\Project3_COP3503\main.cpp(527,76): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\willi\source\repos\Project3_COP3503\main.cpp(543,116): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\willi\source\repos\Project3_COP3503\main.cpp(543,78): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\willi\source\repos\Project3_COP3503\main.cpp(570,114): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\willi\source\repos\Project3_COP3503\main.cpp(570,76): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\willi\source\repos\Project3_COP3503\main.cpp(573,124): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\willi\source\repos\Project3_COP3503\main.cpp(573,86): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\willi\source\repos\Project3_COP3503\main.cpp(594,122): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\willi\source\repos\Project3_COP3503\main.cpp(594,84): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\willi\source\repos\Project3_COP3503\main.cpp(609,120): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\willi\source\repos\Project3_COP3503\main.cpp(609,82): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\willi\source\repos\Project3_COP3503\main.cpp(611,102): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\willi\source\repos\Project3_COP3503\main.cpp(611,82): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+  Project3_COP3503.vcxproj -> C:\Users\willi\source\repos\Project3_COP3503\x64\Debug\Project3_COP3503.exe
